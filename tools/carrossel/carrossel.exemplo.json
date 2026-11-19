@@ -1,0 +1,18 @@
+{
+ "nome": "7-sinais",
+ "saida": "saida-exemplo",
+ "arroba": "@suamarca",
+ "emblema": "../../assets/logo-placeholder.png",
+ "cores": {"fundo": "#14231C", "texto": "#F4F6F1", "destaque": "#E2B65B", "linha": "#2C4A3B", "rodape": "#C9D6CE"},
+ "slides": [
+  {"tipo": "capa", "kicker": "Paisagismo · guia rápido", "titulo": "7 sinais de que o solo do seu jardim está morto", "texto": "Arraste para o lado →"},
+  {"tipo": "item", "kicker": "Sinal 1 de 7", "numero": 1, "titulo": "A água empoça ou escorre", "texto": "Chove e a água fica parada em cima, ou corre para a rua. Solo compactado não deixa a água entrar."},
+  {"tipo": "item", "kicker": "Sinal 2 de 7", "numero": 2, "titulo": "A superfície forma crosta", "texto": "Terra nua endurece e racha. Sem cobertura, o sol e a chuva selam o solo."},
+  {"tipo": "item", "kicker": "Sinal 3 de 7", "numero": 3, "titulo": "Não há bichinhos", "texto": "Sem minhoca, larva ou besouro no solo, ninguém transforma folha em adubo."},
+  {"tipo": "item", "kicker": "Sinal 4 de 7", "numero": 4, "titulo": "O adubo dura poucos dias", "texto": "Adubou, melhorou, e voltou a murchar. O solo não segura nem entrega."},
+  {"tipo": "item", "kicker": "Sinal 5 de 7", "numero": 5, "titulo": "Só nasce um tipo de mato", "texto": "Solo pobre ou compactado deixa poucas plantas oportunistas dominarem."},
+  {"tipo": "item", "kicker": "Sinal 6 de 7", "numero": 6, "titulo": "A raiz fica rasa", "texto": "Planta que solta com um puxão leve cresceu num solo que não deixou a raiz descer."},
+  {"tipo": "item", "kicker": "Sinal 7 de 7 · teste em 1 minuto", "numero": 7, "titulo": "A chave de fenda não entra", "texto": "Depois de chover ou regar, tente cravar uma chave de fenda no solo. Se entra com dificuldade, ele está compactado."},
+  {"tipo": "cta", "kicker": "Sua Marca", "titulo": "Solo vivo se constrói", "html": "Descompactar, corrigir, cobrir, plantar. <span class=\"dest\">Nessa ordem.</span>", "cta_html": "Comente <b class=\"dest\">TESTE</b> que eu te mando no direct o passo a passo."}
+ ]
+}

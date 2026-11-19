@@ -1,0 +1,25 @@
+{
+ "fim": 33.5,
+ "card_ini": 30.75,
+ "cenas": [
+  {"ini": 0.0, "fala": "Você já comprou grama duas vezes pro mesmo lugar?", "tipo": "cam"},
+  {"ini": 3.4, "fala": "Plantou,", "tipo": "v", "path": "acervo/placas-de-grama.mp4", "ss": 0.0, "propria": true, "o_que": "placas de grama sendo assentadas (close)"},
+  {"ini": 4.6, "fala": "pegou bonito no primeiro mês", "tipo": "v", "path": "acervo/gramado-novo.mp4", "ss": 10.6, "propria": true, "o_que": "gramado recém-plantado, verde e inteiro"},
+  {"ini": 6.25, "fala": "e na seca virou palha.", "tipo": "v", "path": "acervo/gramado-seco.mp4", "ss": 6.6, "propria": true, "o_que": "gramado seco, cor de palha"},
+  {"ini": 8.45, "fala": "O problema não tá na grama,", "tipo": "cam"},
+  {"ini": 10.25, "fala": "tá no solo compactado", "tipo": "v", "path": "broll/solo-rachado.mp4", "ss": 11.0, "o_que": "solo rachado e compactado (close aéreo)",
+   "origem": "Pixabay, autor <autor>, https://pixabay.com/videos/id-000000/", "licenca": "Pixabay Content License"},
+  {"ini": 11.85, "fala": "por caminhão de obra,", "tipo": "v", "path": "broll/pneus-na-terra.mp4", "ss": 4.0, "o_que": "pneus de caminhão rodando sobre a terra",
+   "origem": "Pixabay, autor <autor>, https://pixabay.com/videos/id-000000/", "licenca": "Pixabay Content License"},
+  {"ini": 13.3, "fala": "sem matéria orgânica e,", "tipo": "f", "path": "acervo/terra-nua.jpg", "propria": true, "o_que": "quintal de obra com terra nua"},
+  {"ini": 15.05, "fala": "principalmente, sem água no lugar certo.", "tipo": "v", "path": "acervo/irrigacao.mp4", "ss": 8.0, "propria": true, "o_que": "tubo soltando água direto no solo"},
+  {"ini": 17.75, "fala": "Aqui na Sua Marca, a gente faz o contrário.", "tipo": "cam"},
+  {"ini": 20.55, "fala": "Descompacta,", "tipo": "v", "path": "acervo/enxada.mp4", "ss": 9.2, "propria": true, "o_que": "enxada abrindo o solo"},
+  {"ini": 21.85, "fala": "traz matéria orgânica,", "tipo": "f", "path": "acervo/composto.jpg", "propria": true, "o_que": "composto orgânico ao lado da muda"},
+  {"ini": 23.45, "fala": "cobre o solo,", "tipo": "v", "path": "acervo/palhada.mp4", "ss": 5.3, "propria": true, "o_que": "solo coberto com palhada"},
+  {"ini": 24.5, "fala": "corrige", "tipo": "v", "path": "acervo/adubo.mp4", "ss": 11.3, "propria": true, "o_que": "adubo espalhado sobre o solo"},
+  {"ini": 25.6, "fala": "e só depois planta a grama.", "tipo": "v", "path": "acervo/assentando-grama.mp4", "ss": 2.2, "propria": true, "o_que": "mão assentando placa de grama"},
+  {"ini": 27.6, "fala": "Solicite um orçamento para o seu projeto.", "tipo": "cam"},
+  {"ini": 30.75, "fala": "(card)", "tipo": "card"}
+ ]
+}

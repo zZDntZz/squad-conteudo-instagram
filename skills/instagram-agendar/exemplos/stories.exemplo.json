@@ -1,0 +1,11 @@
+{
+ "tipo": "story",
+ "perfil": "@suamarca",
+ "data": "2026-11-19",
+ "fuso": "America/Sao_Paulo",
+ "stories": [
+  {"midia": "C:/caminho/para/story-1.jpg", "hora": "19:00"},
+  {"midia": "C:/caminho/para/story-2.jpg", "hora": "19:05"},
+  {"midia": "C:/caminho/para/story-3.jpg", "hora": "19:10"}
+ ]
+}

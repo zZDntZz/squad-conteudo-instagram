@@ -1,0 +1,4 @@
+Tarefa SÓ DE LEITURA, sem abrir página nenhuma e sem clicar em nada.
+Liste os navegadores conectados à extensão Claude in Chrome: para cada um, o deviceId, o nome do perfil/conta
+do Chrome (se aparecer) e o sistema. Não escolha nenhum e não peça confirmação: só liste.
+Termine com uma linha por navegador no formato: NAVEGADOR <deviceId> <descrição>

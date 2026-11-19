@@ -1,0 +1,33 @@
+{
+ "_comentario": "Marca de EXEMPLO. Copie esta pasta para marcas/<sua-marca>/, troque cores, nome, arroba, tagline e o logo.png (PNG oficial com fundo transparente; nunca gere logo por IA).",
+ "nome": "Sua Marca",
+ "arroba": "@suamarca",
+ "tagline": "Sua frase de assinatura.",
+ "logo": "logo.png",
+ "logo_fundo": "claro",
+ "cores": {
+  "primaria": "#1F4D3A",
+  "destaque": "#E2B65B",
+  "alerta": "#B5502A",
+  "papel": "#F4F6F1",
+  "tinta": "#14231C",
+  "escuro": "#14231C",
+  "claro": "#F4F6F1"
+ },
+ "fonte_titulo": "Oswald",
+ "fonte_texto": "Inter",
+ "raio": 10,
+ "musica_volume_db": -27,
+ "loudness_alvo_lufs": -14,
+ "provisoria": true,
+ "diretrizes": [
+  "Logo é sempre o PNG oficial. Nunca recriar em texto nem gerar por IA.",
+  "Tom calmo e técnico; sem exclamações e sem auto-apresentação.",
+  "Proibido: promessa de resultado, número de economia sem fonte, rosto de cliente sem autorização.",
+  "B-roll preferido: mídia própria (obras, bastidores) antes de banco de imagens."
+ ],
+ "correcoes": {
+  "Sua Marka": "Sua Marca",
+  "Suamarca": "Sua Marca"
+ }
+}

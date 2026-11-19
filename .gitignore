@@ -1,0 +1,28 @@
+# dependências e caches
+node_modules/
+__pycache__/
+*.pyc
+.remotion/
+motor/graficos/out/
+
+# dados pessoais e de projeto (nunca vão para o repositório público)
+config.json
+.env
+*.env
+motor/.env
+motor/projetos/
+motor/biblioteca/
+motor/estudio/fixtures/*.wav
+motor/marcas/*
+!motor/marcas/exemplo/
+
+# saídas dos geradores e renders
+saida/
+saida-exemplo/
+*.mp4
+*.mov
+*.m4a
+*.wav
+_trabalho/
+tools/termos-vetados.local.txt
+*.local.txt

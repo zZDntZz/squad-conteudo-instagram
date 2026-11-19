@@ -1,0 +1,20 @@
+{
+ "nome": "Post 1 - SOLO - reel grama",
+ "perfil": "@suamarca",
+ "palavra": "SOLO",
+ "legenda_inicio": "Comente SOLO que eu te mando",
+ "respostas_publicas": [
+  "Te mandei no direct 🌱",
+  "Chegou aí no direct, confere!",
+  "Enviado! Olha o direct 👀"
+ ],
+ "dm_abertura": "Oi! Aqui é da Sua Marca. Toca no botão que eu te mando o teste do solo.",
+ "botao_dm": "Quero o teste",
+ "isca": {
+  "tipo": "pdf",
+  "texto": "Aqui está o teste do solo em 3 minutos 🌱 Toque no botão para abrir o PDF e salvar no celular.\n\nSão 3 testes com o que você tem em casa: a chave de fenda, o copo d'água e um palmo de terra. Dois deles deram ruim? O problema da grama está embaixo dela.\n\nMe conta: em que bairro fica o terreno e qual o tamanho mais ou menos? Assim te digo por onde começar.",
+  "botao": "Baixar teste em PDF",
+  "url": "https://www.example.com/teste-do-solo.pdf"
+ },
+ "resposta_story": "Oi! Aqui é da Sua Marca 🌱 Recebi sua mensagem. Me conta: qual é o problema que você está vendo no jardim (grama, planta, praga, rega)? Se puder, manda uma foto que eu te digo por onde começar."
+}

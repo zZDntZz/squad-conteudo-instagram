@@ -1,0 +1,18 @@
+{
+ "_comentario": "Caminhos relativos a este arquivo. Copie para a pasta do seu reel e ajuste.",
+ "nome": "reel-grama-duas-vezes",
+ "gravacao": "gravacao/R1.mp4",
+ "saida": "saida",
+ "marca": "exemplo",
+ "musica": null,
+ "gancho": "VOCÊ JÁ COMPROU GRAMA\nDUAS VEZES PRO MESMO LUGAR?",
+ "fonte_gancho": "arialbd.ttf",
+ "chamada": "Solicite um orçamento para o seu projeto",
+ "cenas": "cenas.json",
+ "transcricao": "transcricao.json",
+ "catalogo": null,
+ "cor_karaoke": "#FFD400",
+ "trocas_legenda": [
+  {"de": "Está", "para": "Tá", "entre": [0, 999]}
+ ]
+}

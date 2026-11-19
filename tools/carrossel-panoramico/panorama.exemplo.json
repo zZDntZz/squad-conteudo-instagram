@@ -1,0 +1,25 @@
+{
+ "nome": "7-sinais-panorama",
+ "saida": "saida-exemplo",
+ "slides": 9,
+ "largura_slide": 1080,
+ "altura": 1350,
+ "margem": 80,
+ "cores": {"escuro": "#0E261B", "creme": "#F2FBF5", "destaque": "#1F6B45", "acento": "#E2B65B", "rodape": "#D9CCB6"},
+ "cena": {"tipo": "modulo", "arquivo": "cenas/solo-vivo.mjs"},
+ "arraste": "Arraste →",
+ "assinatura": {"emblema": "../../assets/logo-placeholder.png", "arroba": "@suamarca"},
+ "blocos": [
+  {"s": 1, "html": "<div class=\"kick\">Paisagismo · guia rápido</div><h1>7 sinais de que o solo do seu jardim está morto</h1>"},
+  {"s": 2, "html": "<h2><span class=\"n\">1 ·</span> A água empoça ou escorre</h2><p>Chove e a água fica parada em cima, ou corre para a rua. Solo compactado não deixa a água entrar.</p>"},
+  {"s": 3, "html": "<h2><span class=\"n\">2 ·</span> A superfície forma crosta</h2><p>Terra nua endurece e racha. Sem cobertura, sol e chuva selam o solo.</p>"},
+  {"s": 4, "html": "<h2><span class=\"n\">3 ·</span> Não há bichinhos</h2><p>Sem minhoca, larva ou besouro, ninguém transforma folha em adubo.</p>"},
+  {"s": 5, "html": "<h3><span class=\"n\">4 ·</span> O adubo dura poucos dias</h3><p>Adubou, melhorou, murchou de novo. O solo não segura nem entrega.</p>"},
+  {"s": 5, "top": 912, "cls": "claro", "html": "<h3><span class=\"n\">5 ·</span> Só nasce um tipo de mato</h3><p>Solo pobre deixa poucas plantas oportunistas dominarem.</p>"},
+  {"s": 6, "html": "<h3><span class=\"n\">6 ·</span> A raiz fica rasa</h3><p>Planta que solta com um puxão leve cresceu num solo que não deixou a raiz descer.</p>"},
+  {"s": 6, "top": 912, "cls": "claro", "html": "<h3><span class=\"n\">7 ·</span> A chave de fenda não entra</h3><p>Depois de chover ou regar, crave uma chave de fenda. Entrou com dificuldade = compactado.</p>"},
+  {"s": 7, "html": "<h2>Solo vivo se constrói</h2><p>Descompactar, corrigir, cobrir, plantar.<br><span class=\"dest\">Nessa ordem.</span></p>"},
+  {"s": 8, "html": "<h3>Raiz funda, água infiltrando, vida no solo.</h3>"},
+  {"s": 9, "assinatura": true, "html": "<h3>Comente <mark>TESTE</mark> que eu te mando no direct o passo a passo do teste da chave de fenda.</h3>"}
+ ]
+}

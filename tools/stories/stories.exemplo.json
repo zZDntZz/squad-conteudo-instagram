@@ -1,0 +1,13 @@
+{
+ "saida": "saida-exemplo",
+ "cores": {"veu": "14,35,28", "texto": "#F4F6F1", "destaque": "#E2B65B", "textoCta": "#14231C"},
+ "telas": [
+  {"arquivo": "story-1.jpg", "fundo": null, "kicker": "Solo coberto · 1/3", "titulo": "Solo descoberto sofre.",
+   "texto": "No sol forte, a terra nua esquenta, perde água rápido e forma crosta. Quando a chuva vem, a água escorre em vez de entrar."},
+  {"arquivo": "story-2.jpg", "fundo": null, "kicker": "Solo coberto · 2/3", "titulo": "A cobertura é um guarda-sol para o solo.",
+   "lista": ["segura a umidade por mais tempo", "deixa a terra mais fresca", "amortece a chuva, e a água infiltra", "vira adubo enquanto se decompõe"]},
+  {"arquivo": "story-3.jpg", "fundo": null, "kicker": "Solo coberto · 3/3", "titulo": "Dá para fazer em casa.",
+   "texto": "Folha seca do próprio jardim, grama cortada e poda picada servem. Espalhe uma camada sem encostar no caule.",
+   "cta": "Ficou com dúvida? Responda este story que eu te explico."}
+ ]
+}

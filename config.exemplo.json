@@ -1,0 +1,30 @@
+{
+ "_comentario": "Copie para config.json (ignorado pelo git) e troque pelos dados da SUA marca. Os gates leem config.json; sem ele, usam este exemplo e avisam.",
+ "marca": {
+  "nome": "Sua Marca",
+  "arroba": "@suamarca",
+  "escritas_erradas": ["Sua Marka", "Suamarca", "Sua Marcca"]
+ },
+ "telefone_oficial": "(00) 00000-0000",
+ "termos_vetados": [
+  {"padrao": "\\b(margem|lucro|markup)\\b", "motivo": "conteúdo não fala de margem nem de lucro"},
+  {"padrao": "\\b\\d{1,3}% (menos|mais)\\b", "motivo": "número de economia sem fonte publicada"},
+  {"padrao": "\\bcliente-sem-autorizacao\\b", "motivo": "nome de cliente que não autorizou aparecer"}
+ ],
+ "pastas_vetadas": ["cliente-sem-autorizacao", "obra-sem-autorizacao"],
+ "correcoes_legenda": [
+  {"errado": "\\bbic\\b", "certo": "bico"}
+ ],
+ "legenda": {"max_caracteres": 2200, "max_hashtags": 30, "midia_min_bytes": 20000},
+ "reel": {
+  "largura": 1080,
+  "altura": 1920,
+  "fps": 30,
+  "folga_fim_fala_s": 0.7,
+  "loudness_lufs": -14,
+  "loudness_tolerancia": 1.5,
+  "pico_max_dbtp": -1.0,
+  "upload_max_bytes": 10000000,
+  "exigir_nome_na_legenda": true
+ }
+}
